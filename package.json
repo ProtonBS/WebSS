@@ -1,0 +1,8 @@
+{
+  "name": "screenshot-script",
+  "version": "1.0.0",
+  "main": "screenshot.js",
+  "dependencies": {
+    "puppeteer": "^12.1.1"
+  }
+}

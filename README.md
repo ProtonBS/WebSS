@@ -1,0 +1,5 @@
+- your_project/
+  - screenshot.js
+  - package.json
+  - .gitignore
+  - README.md
